@@ -8,7 +8,7 @@ import server from "../environment";
 export const AuthContext = createContext({});
 
 const client = axios.create({
-     baseURL: "https://webrtc-video-conferencing-system.onrender.com/api/v1/users"
+     baseURL: "https://webrtc-video-conferencing-system-2.onrender.com/api/v1/users"
 })
 
 

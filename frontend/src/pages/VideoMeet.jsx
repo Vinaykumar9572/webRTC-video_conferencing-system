@@ -13,7 +13,7 @@ import StopScreenShareIcon from '@mui/icons-material/StopScreenShare'
 import ChatIcon from '@mui/icons-material/Chat'
 import server from '../environment';
 
-const server_url = "https://webrtc-video-conferencing-system.onrender.com";
+const server_url = "https://webrtc-video-conferencing-system-2.onrender.com";
 
 
 var connections = {};
